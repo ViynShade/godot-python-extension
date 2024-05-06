@@ -10,3 +10,6 @@
 [submodule "python-build-standalone"]
 	path = python-build-standalone
 	url = https://github.com/indygreg/python-build-standalone
+[submodule "llvm"]
+	path = llvm
+	url = https://github.com/llvm/llvm-project
